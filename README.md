@@ -85,7 +85,7 @@ YAY! It worked! This screenshot shows the new Google Doc created by my automatio
 
 I've included my supporting materials so others can see how I developed and tested the automation.
 
-- [Hackathon Project Documentation (PDF)](docs/Hackathon%20Project_%20Automating%20My%20Online%20Event%20Producer%20Script%20-%20Joan%283%29.pdf)
+- [Hackathon Project Documentation (PDF)](docs/Hackathon%20Project_%20Automating%20My%20Online%20Event%20Producer%20Script%20-%20Joan.pdf)
 - [Google Apps Script Source Code](src/Code.gs)
 - [Documentation Folder](docs/)
 
