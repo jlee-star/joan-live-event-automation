@@ -1,3 +1,5 @@
+![Hackathon Project Banner](screenshots/hackathon-banner.png)
+
 # Hackathon Project: Automating My Online Event Producer Script
 
 ## Project Overview
