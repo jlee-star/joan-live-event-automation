@@ -31,15 +31,6 @@ I also configured a daily trigger so the automation runs before my events.
 
 Instead of manually entering the same information each day, the script now handles that part of my preparation.
 
-## My Automation Workflow
-
-```mermaid
-flowchart LR
-    A[Google Sheets] --> B[Apps Script]
-    B --> C[New Google Doc]
-    C --> D[Final Review]
-```
-
 ## How My Automation Works
 
 1. My Google Sheet contains the course titles in column C, instructor names in column D, and registration/recording links in column G.
