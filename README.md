@@ -34,13 +34,10 @@ Instead of manually entering the same information each day, the script now handl
 ## My Automation Workflow
 
 ```mermaid
-flowchart TD
-    A[Google Sheets Schedule] --> B[Daily Google Apps Script Trigger]
-    B --> C[Find Today's Earliest Course]
-    C --> D[Copy Google Doc Template]
-    D --> E[Fill Course Title, Instructor and Link]
-    E --> F[New Facilitator Script]
-    F --> G[My Final Review]
+flowchart LR
+    A[Google Sheets] --> B[Apps Script]
+    B --> C[New Google Doc]
+    C --> D[Final Review]
 ```
 
 ## How My Automation Works
