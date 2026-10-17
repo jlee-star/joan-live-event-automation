@@ -108,3 +108,8 @@ Even though my automation is working, I still review the generated facilitator s
 AI and automation help me work more efficiently, but I'm still responsible for the final result.
 
 I'm excited to keep learning and see what else I can automate!
+
+## Maintainer
+
+Joan Lee  
+Senior Online Producer, O’Reilly Media
