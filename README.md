@@ -31,7 +31,17 @@ I also configured a daily trigger so the automation runs before my events.
 
 Instead of manually entering the same information each day, the script now handles that part of my preparation.
 
-## How My Automation Works
+## My Automation Workflow
+
+```mermaid
+flowchart TD
+    A[Google Sheets Schedule] --> B[Daily Google Apps Script Trigger]
+    B --> C[Find Today's Earliest Course]
+    C --> D[Copy Google Doc Template]
+    D --> E[Fill Course Title, Instructor and Link]
+    E --> F[New Facilitator Script]
+    F --> G[My Final Review]
+```## How My Automation Works
 
 1. My Google Sheet contains the course titles in column C, instructor names in column D, and registration/recording links in column G.
 2. Google Apps Script checks the schedule for the current day and selects the earliest course with a readable start time.
