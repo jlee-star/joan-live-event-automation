@@ -109,7 +109,8 @@ AI and automation help me work more efficiently, but I'm still responsible for t
 
 I'm excited to keep learning and see what else I can automate!
 
-## Maintainer
+## Project Owner
 
 Joan Lee  
 Senior Online Producer, O’Reilly Media
+
