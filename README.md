@@ -11,7 +11,7 @@ The video highlights my Google Sheets schedule, AI-assisted coding in VS Code, d
 
 **[▶ Watch or Download My Hackathon Video](https://github.com/jlee-star/joan-live-event-automation/blob/main/video/Hackathon%20Video.mp4)**
 
-*Note: GitHub may download the video instead of playing it directly in your browser.*
+*Note: To watch the video: Click Hackathon Video.mp4, then select View raw to open or download the video. GitHub may not display a preview because of the file size.*
 
 ## Project Overview
 
