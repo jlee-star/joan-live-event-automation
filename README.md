@@ -9,7 +9,7 @@ I created a video showcasing my Hackathon journey, from experimenting with AI pr
 
 The video highlights my Google Sheets schedule, AI-assisted coding in VS Code, daily automation trigger, and successfully generated facilitator script.
 
-**[▶ Watch or Download My Hackathon Video](https://github.com/jlee-star/joan-live-event-automation/blob/main/video/Hackathon%20Video.mp4)**
+**[▶ Watch or Download My Hackathon Video](https://github.com/jlee-star/joan-live-event-automation/raw/refs/heads/main/video/Hackathon%20Video.mp4)**
 
 *Note: To watch the video: Click Hackathon Video.mp4, then select View raw to open or download the video. GitHub may not display a preview because of the file size.*
 
