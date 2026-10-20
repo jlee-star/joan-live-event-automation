@@ -3,6 +3,16 @@
 # Hackathon Project: Automating My Online Event Producer Script
 An AI-powered automation that helps online event producers streamline event planning, coordination, and delivery.
 
+## 🎬 Watch My Hackathon Project Video
+
+I created a video showcasing my Hackathon journey, from experimenting with AI prompting techniques to building a working Google Apps Script automation.
+
+The video highlights my Google Sheets schedule, AI-assisted coding in VS Code, daily automation trigger, and successfully generated facilitator script.
+
+**[▶ Watch or Download My Hackathon Video](https://github.com/jlee-star/joan-live-event-automation/blob/main/video/Hackathon%20Video.mp4)**
+
+*Note: GitHub may download the video instead of playing it directly in your browser.*
+
 ## Project Overview
 
 For my Hackathon project, I wanted to explore how AI and automation could simplify my daily work as an Online Event Producer at O'Reilly.
